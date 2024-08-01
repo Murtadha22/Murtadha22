@@ -1,5 +1,4 @@
-
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQFvLwDfIofHkA/article-cover_image-shrink_600_2000/0/1697131488679?e=2147483647&v=beta&t=U-FFK3sfK-svsgyBFTUzWvgnZZ2mQbk2utzKxFK4Qnw)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_an_Android_Developer.jpg)
 <h1 align="center">Hi 👋, I'm Murtadha Aldayyeni</h1>
 <h3 align="center">I’m a Computer Science undergraduate student from Iraq</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/135/thumb-1920-1350469.png">
