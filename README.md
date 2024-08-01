@@ -1,4 +1,4 @@
-[!MasterHead(https://pixelplex.io/next/images/android-app-development/header/android-app-development-bg-1920.jpg)]
+[![MasterHead](https://pixelplex.io/next/images/android-app-development/header/android-app-development-bg-1920.jpg)]]
 <h1 align="center">Hi 👋, I'm Murtadha Aldayyeni</h1>
 <h3 align="center">I’m a Computer Science undergraduate student from Iraq</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/135/thumb-1920-1350469.png">
