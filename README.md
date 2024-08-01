@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Cv5M_oPEU8LMiu1LUtcXuiPWOWRP2gkQPZvpqXkID9Uy5Yp6XE9EK3Nx6YxDJEXZfw&usqp=CAU)
+![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_1536_768/0/1583882155231?e=2147483647&v=beta&t=Vt_srojVonw5IoHo8XBsQ7XG8JURSaC6cCwyGQ_7qHI)
 <h1 align="center">Hi 👋, I'm Murtadha Aldayyeni</h1>
 <h3 align="center">I’m a Computer Science undergraduate student from Iraq</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/135/thumb-1920-1350469.png">
