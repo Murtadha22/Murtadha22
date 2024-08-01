@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_1536_768/0/1583882155231?e=2147483647&v=beta&t=Vt_srojVonw5IoHo8XBsQ7XG8JURSaC6cCwyGQ_7qHI)
+![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)
 <h1 align="center">Hi 👋, I'm Murtadha Aldayyeni</h1>
 <h3 align="center">I’m a Computer Science undergraduate student from Iraq</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/135/thumb-1920-1350469.png">
