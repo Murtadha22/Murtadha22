@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5112AQEnwmMPMolBig/article-cover_image-shrink_720_1280/0/1522134100153?e=2147483647&v=beta&t=TELq2RDC_76ztJYWuA_fXAVWEE9GMboEfowcZG41rQk)
+
 <h3 align="center">I’m a Computer Science undergraduate student </h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/135/thumb-1920-1350469.png">
 
